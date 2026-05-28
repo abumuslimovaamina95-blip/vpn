@@ -5,9 +5,5 @@
 #announce:
 
 
+vless://8795e7fd-8eae-48ea-9940-269363e7a915@217.9.12.10:443?type=tcp&security=reality&fp=chrome&sni=www.google.com&pbk=LtssBQAaUjTtPHofL77UhcdQcijGWg1DFPbNhknD5nI&sid=951005e676ae4e3c&flow=xtls-rprx-vision&encryption=none#🇪🇪 Эстония | ‹YouTube›
 
-vless://b58a4390-6aba-451a-8010-61916ebe6bb3@111.88.146.74:25462?type=tcp&encryption=none&security=reality&pbk=PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI&fp=chrome&sni=www.m.vk.ru&sid=9a694cfa8ebd15&spx=%2F#🤳/🎮 | Соцсети/Игровые:
-vless://80742b50-480c-4e05-b39d-5af097192187@play.wide-frost.test-cdn-kkk.com:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tradingview.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq#🇫🇮 Финляндия | ‹Игровой›
-vless://80742b50-480c-4e05-b39d-5af097192187@play.raw-maple.test-cdn-kkk.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tradingview.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq#🇪🇪 Эстония | ‹Игровой›
-vless://80742b50-480c-4e05-b39d-5af097192187@play.vast-mesa.test-cdn-kkk.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tradingview.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq#🇸🇪 Швеция| ‹Игровой›
-vless://d3e2caa1-4977-412b-a75f-bfee5776759d@138.124.89.58:30448?encryption=none&security=reality&sni=www.apple.com&pbk=Vh5DjaAxddFRTfszGWkx7zkJI6Nm78_DSfbP8ze4wX8&sid=2666f386&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇳🇱 Нидерланды | ‹Соцсети/ИИ›
